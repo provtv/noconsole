@@ -1,0 +1,4 @@
+*.phar
+/.env
+.git-blame-ignore-revs
+*:Zone.Identifier

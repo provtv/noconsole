@@ -1,0 +1,32 @@
+[06-Apr-2023 10:40:52 UTC] PHP Warning:  Undefined array key 1 in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 38
+[06-Apr-2023 10:40:52 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 40
+[06-Apr-2023 10:40:52 UTC] PHP Fatal error:  Uncaught ValueError: putenv(): Argument #1 ($assignment) must have a valid syntax in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php:43
+Stack trace:
+#0 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php(43): putenv('=======')
+#1 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/index.php(10): DotEnv->load()
+#2 {main}
+  thrown in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 43
+[06-Apr-2023 10:41:17 UTC] PHP Warning:  Undefined array key 1 in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 38
+[06-Apr-2023 10:41:17 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 40
+[06-Apr-2023 10:41:17 UTC] PHP Fatal error:  Uncaught ValueError: putenv(): Argument #1 ($assignment) must have a valid syntax in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php:43
+Stack trace:
+#0 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php(43): putenv('=======')
+#1 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/index.php(10): DotEnv->load()
+#2 {main}
+  thrown in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 43
+[06-Apr-2023 10:41:37 UTC] PHP Warning:  Undefined array key 1 in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 38
+[06-Apr-2023 10:41:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 40
+[06-Apr-2023 10:41:37 UTC] PHP Fatal error:  Uncaught ValueError: putenv(): Argument #1 ($assignment) must have a valid syntax in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php:43
+Stack trace:
+#0 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php(43): putenv('=======')
+#1 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/index.php(10): DotEnv->load()
+#2 {main}
+  thrown in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 43
+[06-Apr-2023 10:42:45 UTC] PHP Warning:  Undefined array key 1 in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 38
+[06-Apr-2023 10:42:45 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 40
+[06-Apr-2023 10:42:45 UTC] PHP Fatal error:  Uncaught ValueError: putenv(): Argument #1 ($assignment) must have a valid syntax in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php:43
+Stack trace:
+#0 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php(43): putenv('=======')
+#1 /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/index.php(10): DotEnv->load()
+#2 {main}
+  thrown in /home/txaesfry/manager.quaerisofficina.it/public_html/noconsole/DotEnv.php on line 43
