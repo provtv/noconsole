@@ -1,22 +1,16 @@
-//20 Dec 2020
-This package is to add a web interface for Laravel 5 Artisan.
-https://github.com/bestmomo/nice-artisan
+# Gestione Processi ReactPHP
 
+## Descrizione
+Il modulo ReactPHP permette di gestire processi asincroni e server in background.
 
-//------------------------------------
+## Caratteristiche
+- Server asincroni
+- WebSocket
+- Processi in background
+- Event loop
 
-
-
-//23 marzo 2018
-https://github.com/VisualPHPUnit/VisualPHPUnit
-
-
-
------------------------------------------------------------
-
-https://www.reddit.com/r/laravel/comments/cexq36/reactphp_and_laravel_eloquent/
-
-
+## Configurazione
+```php
 require __DIR__ . '/../../../vendor/autoload.php';
 
 use App\Console\Kernel;
@@ -44,5 +38,10 @@ $loop->addPeriodicTimer(10, function () use ($kernel) {
 });
 
 $loop->run();
+```
 
-
+## Note
+- Verificare la compatibilità con la versione di PHP
+- Monitorare l'uso delle risorse
+- Implementare gestione errori appropriata
+- Considerare l'uso di supervisor per processi lunghi 
