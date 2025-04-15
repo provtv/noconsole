@@ -1,7 +1,0 @@
-{
-    "recommendations": [
-        "junstyle.php-cs-fixer",
-        "bmewburn.vscode-intelephense-client",
-        "ms-vscode.cpptools-themes"
-    ]
-}

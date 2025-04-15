@@ -1,1 +1,0 @@
-@include('progressioni::admin.categoriapropro.create')

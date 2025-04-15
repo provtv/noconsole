@@ -1,6 +1,0 @@
-<p>Si trasmette la scheda di valutazione della performance individuale per l&rsquo;anno {{ $row->anno }}, compilata dal dirigente competente,&nbsp; come individuato dal sistema premiante adottato dall'Ente.</p>
-<p>Si ricorda che nel termine di 7 giorni lavorativi&nbsp; dalla data odierna, il dipendente ha la facolt&agrave; di presentare per iscritto osservazioni motivate al proprio dirigente, il quale avr&agrave; ulteriori 7 giorni per rispondere.</p>
-<p>In caso di mancata intesa con il dirigente, il dipendente entro i 7 giorni successivi potr&agrave; formulare una richiesta di conciliazione da inviare al proprio dirigente e al direttore generale, i quali alla presenza dello stesso dipendente, assistito eventualmente da persona di fiducia, si riuniranno entro i successivi 7 giorni per l'eventuale rivalutazione in aumento della performance.</p>
-<p>Con i migliori saluti.</p>
-<p>&nbsp;</p>
-<p><em>Questa mail e' generata in automatico ed eventuali risposte a questo messaggio non verranno gestite.</em></p>

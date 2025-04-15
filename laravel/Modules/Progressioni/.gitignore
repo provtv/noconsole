@@ -1,5 +1,0 @@
-/vendor
-*.lock
-/build
-.git-blame-ignore-revs
-*:Zone.Identifier

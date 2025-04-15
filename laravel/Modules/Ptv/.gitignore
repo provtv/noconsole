@@ -1,7 +1,0 @@
-/vendor
-*.lock
-/build
-.git-blame-ignore-revs
-/node_modules
-*.exe
-*:Zone.Identifier

@@ -1,7 +1,0 @@
-<x-filament::widget>
-    <x-filament::card>
-        {{-- Widget content --}}
-        condizioni-lavoro-overview
-    </x-filament::card>
-</x-filament::widget>
-

@@ -1,3 +1,0 @@
-aggiornamento campo "peso valutazione"
-12:58
-aggiornamento che se uno inserisce una valutazione a 2 cifre decimali, viene fatto arrotondamento ad 1 cifra decimale

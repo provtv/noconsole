@@ -1,2 +1,0 @@
-//--- card ---
-https://bootstrapbay.com/blog/day-13-bootstrap-4-cards-tutorial-and-examples/

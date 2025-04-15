@@ -1,1 +1,0 @@
-@include($view.'_'.$anno,$row)

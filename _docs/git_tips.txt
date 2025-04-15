@@ -1,7 +1,0 @@
-git add .
-git stash
-git merge master --strategy-option theirs
-git stash pop #se vogliamo che le modifiche siano messe
-
-grep -lr '<<<<<<<' . | xargs git checkout --theirs
-
